@@ -1,35 +1,43 @@
 # Manohar Salakula
 
-### B.Tech Cyber Security Student | Building Projects | Learning By Doing
+### B.Tech Cyber Security Student | Project Builder | Learning By Doing
 
-I'm A Cyber Security Student Who Enjoys Understanding How Technology Works, Finding Problems, And Building Practical Solutions. I Learn Best By Creating Projects, Testing Ideas, And Improving Them Step By Step.
+I'm A Cyber Security Student Who Enjoys Understanding How Technology Works, Finding Problems, And Building Practical Solutions. I Learn By Creating Projects, Exploring Ideas, And Improving Them Step By Step.
 
-## 🚀 Featured Project — Jeevan Mitra
+## Featured Project: Jeevan Mitra
 
-**Jeevan Mitra Is The Project I'm Most Passionate About.**
+**Jeevan Mitra Is My Main Project And The Idea I Want To Develop Further.**
 
-It Is A Proposed Coordination Platform That Aims To Connect Hospitals, Blood Banks, And Potentially Eligible Blood Donors During Blood Requirements.
+Jeevan Mitra Is A Healthcare Coordination Platform Concept Designed To Connect Hospitals, Blood Banks, And Potentially Eligible Blood Donors During Blood Requirements.
 
-The Idea Is Simple: **The Challenge Is Not Only Finding Donors. It Is Connecting The Right People At The Right Time.**
+**The Core Idea: A Coordination Gap, Not Simply A Donor Shortage.**
 
-Jeevan Mitra Is Designed To Support:
-- Hospital-Side Blood Requests
-- Donor Discovery Based On Relevant Matching Information
-- Location-Aware Coordination
-- Donor Eligibility And Donation-Cooldown Checks
-- Request Updates And Donation Coordination
+The Project Aims To Support:
 
-**Jeevan Mitra Does Not Replace Blood Banks Or Medical Professionals.** Any Donor Suitability, Testing, Collection, And Transfusion Decisions Must Remain With Authorized Healthcare Professionals And Blood Banks.
+- Hospital Blood Requirement Coordination
+- Donor Discovery Using Blood Group And Location
+- Donor Eligibility And Donation Cooldown Checks
+- Donor QR Identification And Hospital Verification
+- Request Tracking And Donation Coordination
+- A Progressive Web App Foundation
 
-[**Explore The Jeevan Mitra Repository →**](https://github.com/manojga56565/Jeevan-Mitra)
+Jeevan Mitra Does Not Replace Blood Banks Or Medical Professionals. Donor Screening, Compatibility Testing, Blood Collection, And Transfusion Decisions Must Remain With Authorized Healthcare Professionals And Blood Banks.
+
+**Current Development Focus**
+
+The Repository Has Recent Updates Around The Frontend PWA Foundation, Public Statistics, District Data, Donor QR Access, And Hospital Side QR Verification Integration. These Changes Still Need Deployment And End To End Testing Before They Can Be Described As Working Features.
+
+[Explore My Jeevan Mitra Repository](https://github.com/manojga56565/Jeevan-Mitra)
 
 ## Other Projects
 
 ### [Vulnerability Scanner](https://github.com/manojga56565/Vulnerability.scanner)
-A Python-Based Learning Project For Reviewing Website Security Headers, TLS Certificates, And Selected Network Ports.
+
+A Python Based Learning Project For Reviewing Website Security Headers, TLS Certificates, And Selected Network Ports.
 
 ### [Password Strength Analyzer](https://github.com/manojga56565/Password-Strength-Analyzer)
-A Command-Line Project That Helps Evaluate Password Strength And Demonstrates Password-Reuse Tracking.
+
+A Command Line Project That Helps Evaluate Password Strength And Demonstrates Password Reuse Tracking.
 
 ## Areas I'm Exploring
 
@@ -39,16 +47,14 @@ A Command-Line Project That Helps Evaluate Password Strength And Demonstrates Pa
 - Python And Practical Programming
 - Security Testing And Vulnerability Assessment
 
-## A Little About How I Work
+## How I Approach Building
 
-I Don't Want To Build Projects Just To Add Them To A Profile. I Want To Understand The Problem, Build A Useful Solution, Learn From What Doesn't Work, And Keep Improving It.
+I Don't Want To Build Projects Just To Add Them To A Profile. I Want To Understand The Problem, Build A Useful Solution, Learn From What Doesn't Work, And Improve It With Care.
 
-I'm Still Learning, And That's Exactly Why I Keep Building.
+I'm Still Learning, And I Keep Building To Become Better.
 
 ## Connect
 
 Feel Free To Explore My Repositories, Share Feedback, Or Suggest Ways To Improve My Work.
 
----
-
-**Learning Continuously. Building With Purpose. Improving One Step At A Time.**
+**Learning Continuously. Building With Purpose. Improving Step By Step.**
