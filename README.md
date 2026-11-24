@@ -1,35 +1,32 @@
-# Hi, I'm Manohar 👋
+# Manohar Salakula
 
-### Cyber Security Student | Aspiring Security Professional
+B.Tech Cyber Security student
 
-I'm a B.Tech Cyber Security student interested in understanding how systems work, identifying security weaknesses, and building practical projects to strengthen my knowledge.
+I'm interested in how technology works, how systems can be secured, and how security issues can be identified. I use my projects to learn by building, testing, and improving things step by step.
 
-## 🔐 Areas I'm Exploring
+## Interests
 
-- Cybersecurity fundamentals
-- Python scripting
+- Cybersecurity
+- Python
 - Network security
 - Web application security
 - Vulnerability assessment
 
-## 🚀 Featured Projects
+## Projects
 
-| Project | What it does |
-|---|---|
-| [Jeevan Mitra](https://github.com/manojga56565/Jeevan-Mitra) | A project concept for coordinating hospitals, blood banks, and eligible blood donors. |
-| [Vulnerability Scanner](https://github.com/manojga56565/Vulnerability.scanner) | A Python learning project for HTTP security-header checks, TLS certificate review, and TCP port scanning. |
-| [Password Strength Analyzer](https://github.com/manojga56565/Password-Strength-Analyzer) | A Python CLI project that checks password characteristics and demonstrates password-reuse tracking. |
+### [Jeevan Mitra](https://github.com/manojga56565/Jeevan-Mitra)
+A project idea focused on improving coordination between hospitals, blood banks, and eligible blood donors during blood requirements.
 
-## 📚 Currently
+### [Vulnerability Scanner](https://github.com/manojga56565/Vulnerability.scanner)
+A Python-based learning project that checks HTTP security headers, reviews TLS certificates, and scans selected TCP ports.
 
-- Building and improving hands-on projects
-- Learning practical security concepts
-- Strengthening my Python and networking fundamentals
+### [Password Strength Analyzer](https://github.com/manojga56565/Password-Strength-Analyzer)
+A command-line Python project for checking password strength and demonstrating password-reuse tracking.
 
-## 🤝 Connect
+## What I'm Working On
 
-Feel free to explore my repositories, share feedback, or connect with me here on GitHub.
+I'm continuing to improve my Python and networking skills, learn practical cybersecurity concepts, and make my projects more useful and reliable.
 
----
+## Contact
 
-*Learning continuously. Building practically. Improving one project at a time.*
+You can reach me through GitHub or explore my repositories. Feedback and suggestions are welcome.
